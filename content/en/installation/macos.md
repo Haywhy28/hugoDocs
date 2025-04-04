@@ -38,7 +38,8 @@ sudo port install hugo
 :--|:--:|:--:|:--:
 Easy to install?|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 Easy to upgrade?|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
-Easy to downgrade?|:heavy_check_mark:|:heavy_check_mark: [^1]|:heavy_check_mark:
+Easy to downgrade?
+|:heavy_check_mark:|:heavy_check_mark: [^1]|:heavy_check_mark:
 Automatic updates?|:x:|:x: [^2]|:x:
 Latest version available?|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
 
